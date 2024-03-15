@@ -12,6 +12,8 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Variables
+
     private TextView mensaje;
     private EditText v1;
     private EditText v2;
